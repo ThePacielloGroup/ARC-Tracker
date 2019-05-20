@@ -1,5 +1,5 @@
 # ARC-Tracker
-Contains documentation and public issue tracker for the ARC toolkit extension.
+Contains documentation and public issue tracker for the [ARC toolkit extension](https://www.paciellogroup.com/toolkit/).
 
 ## Reporting issues
 
