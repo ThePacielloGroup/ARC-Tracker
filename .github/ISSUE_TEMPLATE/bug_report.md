@@ -7,32 +7,32 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+### Summary
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+> Brief description of the issue. Please list any specific steps.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Expected result
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+> What did you expect to happen?
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### Actual result
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+> What actually did happen?
 
-**Additional context**
-Add any other context about the problem here.
+### Test Case
+
+> A test case that demonstrates the issue - provide a linked test case via CodePen, JSbin, etc...
+
+### Additional Information
+
+#### ARC Toolkit version
+
+> Listed in the left panel after the heading. Example, 3.1.0.1
+
+#### Operating System and version
+
+> Example, OSX 10.14.4
+
+#### Browser and version:
+
+> Example, Chrome 74.0.3729.157 (Official Build) (64-bit) 
