@@ -1,5 +1,5 @@
 # ARC-Tracker
-Contains documentation and public issue tracker for the [ARC toolkit extension](https://www.paciellogroup.com/toolkit/).
+Contains documentation and public issue tracker for the [ARC Toolkit extension](https://www.paciellogroup.com/toolkit/).
 
 ## Reporting issues
 
@@ -12,8 +12,8 @@ If you find an issue with the ARC Toolkit, please [file an issue](https://github
 * Actual result
 * Test case that demonstrates the issue - provide linked test case codepen/JSbin etc.
 <h2>The rules</h2>
-The following is the documentation on the assertions that form the ARC rule set in the ARC crawler. These are a subset of the assertions used in the ARC toolkit extension. This documentation is a work in progress, but I hope will provide you with a clear understanding of what the ARC extension currently tests.
-<table><caption>Arc rules</caption>
+The following is the documentation on the assertions that form the ARC rule set in the ARC crawler. These are a subset of the assertions used in the ARC Toolkit extension. This documentation is a work in progress, but I hope will provide you with a clear understanding of what the ARC extension currently tests.
+<table><caption>ARC rules</caption>
 <thead>
 <tr>
 <th>AAP ID</th>
