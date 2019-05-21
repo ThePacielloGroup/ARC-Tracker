@@ -24,22 +24,6 @@ The following is the documentation on the assertions that form the ARC rule set 
 </thead>
 <tbody>
 <tr>
-<td>267</td>
-<td><strong>abbrMissingTitle</strong>
-
-A <code>&lt;abbr&gt;</code> element is used that has no <code>title</code> attribute or has an emtpy <code>title</code> attribute. The meaning of the abbreviation is not available to assistive technology.</td>
-<td>Error</td>
-<td>1.3.1 Info and Relationships (A)</td>
-</tr>
-<tr>
-<td>268</td>
-<td><strong>accessKeyUsedMultipleTimes</strong>
-
-accesskey used</td>
-<td>Error</td>
-<td>2.1.1 Keyboard (A)</td>
-</tr>
-<tr>
 <td>269</td>
 <td><strong>activeSvgMissingAriaLabel</strong>
 
