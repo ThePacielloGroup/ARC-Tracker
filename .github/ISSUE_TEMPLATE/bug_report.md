@@ -35,4 +35,4 @@ assignees: ''
 
 #### Browser and version:
 
-> Example, Chrome 74.0.3729.157 (Official Build) (64-bit) 
+> Example, Chrome 74.0.3729.157 (Official Build) (64-bit)
