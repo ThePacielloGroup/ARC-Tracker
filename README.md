@@ -1,5 +1,9 @@
 # ARC-Tracker
 Contains documentation and public issue tracker for the [ARC Toolkit extension](https://www.paciellogroup.com/toolkit/).
+<ul>
+  <li><a href="https://www.paciellogroup.com/arc-toolkit-the-service-terms-of-service/">ARC Toolkit Terms of use</a>
+  <li><a href="https://www.paciellogroup.com/arc-toolkit-the-service-terms-of-service/">Download ARC Toolkit</a> from the Google Chrome store.
+  <li>Download the <a href="https://www.paciellogroup.com/wp-content/uploads/2019/05/ARC-Toolkit-Quickstart-Guide-Accessible_Final.pdf">ARC Toolkit Quickstart Guide</a> to get started.
 
 ## Reporting issues
 
@@ -12,7 +16,7 @@ If you find an issue with the ARC Toolkit, please [file an issue](https://github
 * Actual result
 * Test case that demonstrates the issue - provide linked test case codepen/JSbin etc.
 <h2>The rules</h2>
-The following is the documentation on the assertions that form the ARC rule set in the ARC crawler. These are a subset of the assertions used in the ARC Toolkit extension. This documentation is a work in progress, but I hope will provide you with a clear understanding of what the ARC extension currently tests.
+The following is the documentation on the assertions that form the ARC rule set in the ARC extension. This documentation is a work in progress, but I hope will provide you with a clear understanding of what the ARC extension currently tests.
 <table><caption>ARC rules</caption>
 <thead>
 <tr>
