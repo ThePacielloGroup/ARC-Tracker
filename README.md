@@ -116,7 +116,7 @@ The <code>longdesc</code> attribute value contains a space or is empty. The <cod
 <td>1.1.1 Non-text Content (A)</td>
 </tr>
 <tr>
-<td>280</td>
+<td></td>
 <td><strong>duplicateForAndId</strong>
 
 The <code>id</code> attributes used on the page must be unique. Some screen readers and browsers will be confused by duplicate ids.</td>
@@ -226,6 +226,12 @@ The form control has no visible label text. Users will not understand the purpos
 The button uses an image that has no text alternative. The button name and/or function will not be available to users of assistive technology.</td>
 <td>Error</td>
 <td>1.1.1 Non-text Content (A)</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>InsufficientNormalTextContrast</strong> Insufficient color contrast between foreground text and the background</td>
+<td>Error</td>
+<td>1.4.3 Contrast (Minimum) (AA)</td>
 </tr>
 <tr>
 <td>294</td>
@@ -607,9 +613,16 @@ The skip link is provided but the target of the href does not exist. This makes 
 <td>341</td>
 <td><strong>targetNotFocusable</strong>
 
-An in-page or skip link is provided but the target is not focuable. This makespage navigation more difficult for screen reader and keyboard users.</td>
+An in-page or skip link is provided but the target is not focuable. This makes page navigation more difficult for screen reader and keyboard users.</td>
 <td>Error</td>
 <td>2.4.1 Bypass Blocks (A)</td>
+</tr>
+<tr>
+<td></td>
+<td><strong>textWithBackgroundImage</strong>
+Unable to determine contrast of text on a background image or css generated background</td>
+<td>Warning</td>
+<td>1.4.3 Contrast (Minimum) (AA)</td>
 </tr>
 <tr>
 <td>342</td>
