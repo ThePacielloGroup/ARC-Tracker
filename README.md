@@ -3,7 +3,7 @@ Contains documentation and public issue tracker for the [ARC Toolkit extension](
 <ul>
   <li><a href="https://www.paciellogroup.com/arc-toolkit-the-service-terms-of-service/">ARC Toolkit Terms of use</a>
   <li><a href="https://www.paciellogroup.com/arc-toolkit-the-service-terms-of-service/">Download ARC Toolkit</a> from the Google Chrome store.
-  <li>Download the <a href="https://www.paciellogroup.com/wp-content/uploads/2019/05/ARC-Toolkit-Quickstart-Guide-Accessible_Final.pdf">ARC Toolkit Quickstart Guide</a> to get started.
+  <li>Download the <a href="https://www.paciellogroup.com/wp-content/uploads/2019/05/ARC-Toolkit-Quickstart-Guide-Accessible_Final.pdf">ARC Toolkit Quickstart Guide (PDF)</a> to get started.
 
 ## Reporting issues
 
