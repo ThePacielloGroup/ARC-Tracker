@@ -5,4 +5,10 @@
 - **Bug Fixed** The color contrast test is showing that insufficient contrast passes.
 - **Bug Fixed** Duplicate id attribute values are not picked up by ARC rules, unless used with labels. Duplicate id attributes can cause problems when used in other programmatic combinations, such as aria-controls, aria-activedescendant, and so on.
 - **Bug Fixed** an SVG image with an accessible name supplied using the aria-labelledby attribute is marked as an error
-- **New Feature** [WCAG 2.1 1.3.5: Identify Input Purpose](https://w3c.github.io/wcag21/understanding/identify-input-purpose.html) test
+- **New Feature** [WCAG 2.1 1.3.5: Identify Input Purpose](https://w3c.github.io/wcag21/understanding/identify-input-purpose.html) test:
+
+| Test Name        | Category | Issue           | Recommendation  |
+| ------------- |------------|-------------|-----|
+| autocompleteMissing | Alert | missing autocomplete value |  If the input relates to information about the user, add an appropriate autocomplete value |
+| autocompleteOnInvalidControl |Error | autocomplete value used on wrong control type | use the correct control type for the given autocomplete value |
+| autocompleteValueIsInvalid | Error | autocomplete value is invalid | use an appropriate autocomplete value |
